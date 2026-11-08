@@ -99,7 +99,8 @@ Mean results across three random seeds:
 
 ## Repository Contents
 
-- `Data_Efficient_Human_Action_Recognition_Organised.ipynb` – Main project notebook.
+- `Data_Efficient_Human_Action_Recognition.ipynb` – Main project notebook.
+- `requirements.txt` – Required Python libraries.
 
 ## Future Work
 
